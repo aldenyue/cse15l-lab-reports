@@ -3,4 +3,7 @@
 
 ```
 // Code block test
+public int hello(){
+    System.out.println("What's up!")
+}
 ```
