@@ -10,4 +10,4 @@ public int hello(){
 
 [Lab Report 1](lab-report-1-week-0.html)
 
-[Lab Report 2](https://aldenyue.github.io/week-1-lab-report/)
+[Lab Report 2](week-1-lab-report.html)
